@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o9sFAZD8ZmfnyZMCKo/LQIpCWEQmqGKnR37tWKZaLIilOsSpkxtGX/n1J85iE/Ir32IzPDxr9jANHELCuaVo9w==",
+  "dgSpecHash": "/SyfQ2b7wYmW2irWL+MrSf7qdBxnbbG1VeKicmD7IxYgVbT8AS4Vkg9lXxZpgSbZBJ9r3VhXUfktVbDNNWR0Kw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harri\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\harri\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

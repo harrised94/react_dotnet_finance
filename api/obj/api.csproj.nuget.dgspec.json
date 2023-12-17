@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {}
+    "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {
+    "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
+        "projectPath": "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
         "packagesPath": "C:\\Users\\harri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\obj\\",
+        "outputPath": "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
