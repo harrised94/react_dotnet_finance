@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {}
+    "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {
+    "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
+        "projectUniqueName": "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
+        "projectPath": "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\api.csproj",
         "packagesPath": "C:\\Users\\harri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\obj\\",
+        "outputPath": "c:\\Users\\harri\\Desktop\\Professional\\Training\\Fullstack\\React_dotnet\\react_dotnet_finance\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +40,22 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
             },
